@@ -1,0 +1,3 @@
+include bottle_mongoengine.py
+include setup.py
+include test.py
